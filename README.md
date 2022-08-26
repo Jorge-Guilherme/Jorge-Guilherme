@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jorge-Guilherme
+- 👀 I’m interested in Information Security and Technology
+- 🌱 I’m currently learning Python and Studying Telecommunications Engineering
+- 💞️ I’m looking to collaborate on Scientific Initiations
