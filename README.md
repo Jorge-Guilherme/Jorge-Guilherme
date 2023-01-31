@@ -2,7 +2,7 @@
 <br><br>    👋 Bem vindo ao meu perfil do GitHub! Me chamo Jorge Guilherme.<br>    👀 Sou extremamente apaixonado por hardware computacional.<br>    🌱 Engenharia de Hardware.<br>    💞️ A distância entre a insanidade e a genialidade é medida atravez do sucesso.<br><br>
 
 
-## 🌐 Onde me encontrar?:
+## 🌐 Onde me encontrar:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jguilherme.sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/JorgeGuilherme](https://www.linkedin.com/in/jguilhermecabral/)) 
 
 # 💻 Principais habilidades:
