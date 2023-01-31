@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    👋 Bem vindo ao meu perfil do GitHub! Me chamo Jorge Guilherme.<br>    👀 Sou extremamente apaixonado por computação, principalmente a parte física(Hardware).<br>    🌱 Atualmente estou estudando engenharia eletrônica na Universidade Federal de Pernambuco(UFPE), para que futuramente possa ocupar o cargo de Engenheiro de Sistemas Embarcados.<br>    💞️ A distância entre a insanidade e a genialidade é medida atravez do sucesso.<br><br>
+<br><br>    👋 Bem vindo ao meu perfil do GitHub! Me chamo Jorge Guilherme.<br>    👀 Sou extremamente apaixonado por hardware computacional.<br>    🌱 Atualmente estudo engenharia eletrônica na Universidade Federal de Pernambuco(UFPE), para que futuramente possa ocupar o cargo de Engenheiro de Sistemas Embarcados.<br>    💞️ A distância entre a insanidade e a genialidade é medida atravez do sucesso.<br><br>
 
 
 ## 🌐 Socials:
