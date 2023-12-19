@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-<br><br>    👋 Bem vindo ao meu perfil do GitHub! Me chamo Jorge Guilherme.<br>    👀 Sou extremamente apaixonado por hardware computacional.<br>    🌱 Engenharia de Hardware.<br>    💞️ A distância entre a insanidade e a genialidade é medida atravez do sucesso.<br><br>
+<br><br>    👋 Bem vindo ao meu perfil do GitHub! Me chamo Jorge Guilherme.<br>  🌱 Engenharia Eletrônica<br>    👀 A distância entre a insanidade e a genialidade é medida atravez do sucesso.<br><br>
 
 
 ## 🌐 Onde me encontrar:
