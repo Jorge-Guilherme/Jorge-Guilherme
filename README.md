@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-<br><br>    👋 Meu repositório pessoal<br>  🌱 Sistemas de Informação<br>    👀 A distância entre a insanidade e a genialidade é medida atravez do sucesso.<br><br>
+<br><br>Jorge Guilherme<br>Sistemas de Informação<br><br>
 
 
 ## 🌐 Onde me encontrar:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jorge-Guilherme&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
