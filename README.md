@@ -1,6 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
-
-<img align="right" width="250" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Programador no computador">
+# Olá, eu sou Jorge Guilherme! 👋
 
 ## 🛠️ Tecnologias e Ferramentas
 
