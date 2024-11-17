@@ -1,11 +1,33 @@
-### 🌐 Informações Pessoais:
-<br>Jorge Guilherme<br>Sistemas de Informação<br>
+# Olá, eu sou [Seu Nome]! 👋
 
-### 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jguilherme.sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/JorgeGuilherme](https://www.linkedin.com/in/jguilhermecabral/)) 
+<img align="right" width="250" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Programador no computador">
 
-### 💻 Principais habilidades:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jorge-Guilherme&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+---
+
+## 📫 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jguilhermecabral/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorgeguilhermelv/)  
+
+---
+
