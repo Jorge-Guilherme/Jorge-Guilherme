@@ -3,8 +3,8 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="40">
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django Logo" width="40">
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="80">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django Logo" width="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
 </div>
