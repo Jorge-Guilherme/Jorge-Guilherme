@@ -3,12 +3,10 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/AWS-Logo.4fa6c9a1a4a39468c1f4188dd21444f68b9fc1af.png" alt="AWS Logo" width="200">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django Logo" width="200">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
 </div>
 
 ---
