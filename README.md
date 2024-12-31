@@ -5,8 +5,8 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
-  <img src="[https://www.fluxicon.com/images/icon-disco-256.png](https://processmi.com/wp-content/uploads/2019/12/disco-2048x2044.jpg)" alt="Disco Fluxicon Logo" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Process_Mining_Logo.png" alt="Process Mining Logo" width="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="Process Mining Logo" width="80">
 </div>
 
 ---
