@@ -1,4 +1,4 @@
-# Olá, eu sou Jorge Guilherme! 👋
+# Olá, me chamo Jorge Guilherme! 👋
 
 ## 🛠️ Tecnologias e Ferramentas
 
