@@ -1,19 +1,23 @@
 ## Opaa eu sou Jorge Guilherme, desenvolvedor de software e entusiasta de tecnologia!
 
-Sejam bem vindos(as) ao meu respositório. Alguns repositórios possuem regras de uso, mas a grande maioria pode ser utilizado livremente para projetos. Sinta-se a vontade para utilizar como quiser. 😉
+Seja bem vindo(a) ao meu repositório. Fique à vontade para explorar os projetos disponíveis por aqui. A maioria pode ser utilizada livremente em seus próprios projetos. Alguns repositórios específicos podem conter regras de uso, então é sempre bom dar uma olhada no README de cada um.
+Aproveite o conteúdo e, se for útil para você, sinta-se à vontade para usar! 😉
 
 <div style="display: inline_block"><br>
-  
+<h3>Tecnologias e Ferramentas:</h3>
   
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
-  <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jorge-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+  <img align="center" alt ="Jorge-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />        
   <img align="center" alt="Jorge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jorge-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="Jorge-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Jorge-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="Jorge-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
+          
+          
 </div>
   
   ##
