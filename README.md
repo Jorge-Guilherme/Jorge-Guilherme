@@ -3,6 +3,9 @@
 Sejam bem vindos(as) ao meu respositório. Alguns repositórios possuem regras de uso, mas a grande maioria pode ser utilizado livremente para projetos. Sinta-se a vontade para utilizar como quiser. 😉
 
 <div style="display: inline_block"><br>
+  
+  <i class="devicon-apple-original"></i>
+          
   <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jorge-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jorge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
