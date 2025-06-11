@@ -1,4 +1,4 @@
-## Opaa eu sou Jorge Guilherme, desenvolvedor de software e entusiasta de tecnologia!
+## Opaa eu sou Jorge Guilherme, desenvolvedor de software mobile e entusiasta de softwares inteligentes!
 
 Seja bem vindo(a) ao meu repositório. Fique à vontade para explorar os projetos disponíveis por aqui. A maioria pode ser utilizada livremente em seus próprios projetos. Alguns repositórios específicos podem conter regras de uso, então é sempre bom dar uma olhada no README de cada um.
 Aproveite o conteúdo e, se for útil para você, sinta-se à vontade para usar! 😉
