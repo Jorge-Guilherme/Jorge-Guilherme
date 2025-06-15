@@ -3,6 +3,10 @@
 Seja bem vindo(a) ao meu repositório. Fique à vontade para explorar os projetos disponíveis por aqui. A maioria pode ser utilizada livremente em seus próprios projetos. Alguns repositórios específicos podem conter regras de uso, então é sempre bom dar uma olhada no README de cada um.
 Aproveite o conteúdo e, se for útil para você, sinta-se à vontade para usar! 😉
 
+ <div>
+ <img src='https://i.postimg.cc/Z5kYc6Lj/temp-Image4-KJo-W7.avif' border='0' alt='temp-Image4-KJo-W7'/>
+ </div>
+
 <div style="display: inline_block"><br>
 <h3>Tecnologias e Ferramentas:</h3>
   
@@ -19,8 +23,7 @@ Aproveite o conteúdo e, se for útil para você, sinta-se à vontade para usar!
           
           
 </div>
-  
-  ##
+
  
 <div> 
   <a href="https://www.instagram.com/jorgeguilhermelv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
