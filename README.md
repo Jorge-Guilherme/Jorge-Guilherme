@@ -1,18 +1,15 @@
-## Opaa eu sou Jorge Guilherme, desenvolvedor de software e entusiasta de softwares inteligentes!
+## hey there! i'm jorge guilherme, research system security and build ios apps.
 
-Seja bem vindo(a) ao meu repositório. Fique à vontade para explorar os projetos disponíveis por aqui. A maioria pode ser utilizada livremente em seus próprios projetos. Alguns repositórios específicos podem conter regras de uso, então é sempre bom dar uma olhada no README de cada um.
-Aproveite o conteúdo e, se for útil para você, sinta-se à vontade para usar! 😉
+welcome to my repository! feel free to explore the projects available here. most of them can be freely used in your own projects. some specific repositories may contain usage rules, so it’s always a good idea to check each one’s readme.
+enjoy the content, and if you find it useful, feel free to use it! 😉
 
 <div style="display: inline_block"><br>
-<h3>Tecnologias e Ferramentas:</h3>
+<h3>Technologies and Tools:</h3>
   
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="center" alt ="Jorge-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img align="center" alt="Jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Jorge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jorge-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="Jorge-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Jorge-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />    
 </div>
  
 <div> 
