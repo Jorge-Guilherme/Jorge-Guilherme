@@ -1,4 +1,4 @@
-## hey there! i'm jorge guilherme, research system security and build ios apps.
+## hey there! i'm jorge guilherme, research apple security and build ios apps.
 
 welcome to my repository! feel free to explore the projects available here. most of them can be freely used in your own projects. some specific repositories may contain usage rules, so it’s always a good idea to check each one’s readme.
 enjoy the content, and if you find it useful, feel free to use it! 😉
