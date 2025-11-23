@@ -7,7 +7,7 @@ enjoy the content, and if you find it useful, feel free to use it! 😉
 <h3>Technologies and Tools:</h3>
   
   <img align="center" alt ="Jorge-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-  <img align="center" alt="Jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img width="64" height="64" src="https://img.icons8.com/sf-black/64/github.png" alt="github"/>
   <img align="center" alt="Jorge-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="Jorge-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
